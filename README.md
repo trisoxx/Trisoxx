@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/349364529475616770.png">
   <br>
-  <a href="https://discord.gg/UmbrellaGTA">Umbrella v2 ❤️</a>
+  
   
 </p>
 
